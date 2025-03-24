@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello world to accounts Prod Environment"
+  message: "Hello world to accounts Production Environment"
   contactDetails:
     name: "Tyler Nguyen"
     email: "{cipher}3a0d1470080d8c63d8f6439a323d2d02974f05dc4d6fc0758dd76baa57aad9fe00f8bdde85c89fe43527f23acc59cfbf"
