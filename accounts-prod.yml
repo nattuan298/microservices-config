@@ -5,6 +5,6 @@ accounts:
   message: "Hello world to accounts Prod Environment"
   contactDetails:
     name: "Tyler Nguyen"
-    email: "natuan.298@mgail.com"
+    email: "{cipher}3a0d1470080d8c63d8f6439a323d2d02974f05dc4d6fc0758dd76baa57aad9fe00f8bdde85c89fe43527f23acc59cfbf"
   onCallSupport:
     - (84)987-402-464
