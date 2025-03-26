@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hello world to loans Production Environment"
+  message: "Hello world to loans Prod Environment"
   contactDetails:
     name: "Tyler Nguyen"
     email: "natuan.298@mgail.com"
