@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Hello world to cards QA Environment"
+  message: "Hello world to cards QA Environment updated"
   contactDetails:
     name: "Tyler Nguyen"
     email: "natuan.298@mgail.com"
